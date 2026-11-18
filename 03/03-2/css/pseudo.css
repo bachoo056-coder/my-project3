@@ -1,0 +1,11 @@
+h1:before {
+    content: "before content";
+    color: rgb(145, 191, 197);
+}
+h1:after {
+    content: "after content";
+    color: rgb(199, 142, 185);
+}
+h1:hover {
+    border: 1px solid red;
+}
